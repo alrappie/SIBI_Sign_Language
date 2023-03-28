@@ -1,1 +1,3 @@
-/Citra BISINDO
+*.tflite
+*.h5
+/myData
